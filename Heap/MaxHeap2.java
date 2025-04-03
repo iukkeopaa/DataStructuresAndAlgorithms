@@ -83,7 +83,7 @@ public class MaxHeap2 {
     }
 
     public static void main(String[] args) {
-        MaxHeap maxHeap = new MaxHeap(10);
+        MaxHeap2 maxHeap = new MaxHeap2(10);
         maxHeap.insert(10);
         maxHeap.insert(20);
         maxHeap.insert(15);
